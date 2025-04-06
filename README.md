@@ -1,6 +1,6 @@
 # Nostalgic Ores
 
-Modrinth decided to keep my project under review and never let me post it. I'm here now.
+Modrinth's strict moderators decided not to accept my project for misuse of title and misuse of slug/URL. I'm here now.
 
 This resource pack for Minecraft: Java Edition 1.21.4 reverts all ore textures to the old ones.
 
