@@ -1,5 +1,9 @@
 # Nostalgic Ores
 
+--- PROJECT WAS DISCONTINUED ---
+No commits after this one will be pushed.
+Reason: Vanilla Tweaks already has this.
+
 This resource pack for Minecraft: Java Edition 1.21.4 reverts all ore textures to the old ones.
 
 Most of the imported ores were from 1.8.9, and some were from 1.16.
@@ -15,3 +19,4 @@ Most of the imported ores were from 1.8.9, and some were from 1.16.
 5. Go into Minecraft.
 6. Enable the resource pack.
 7. You're done!
+
